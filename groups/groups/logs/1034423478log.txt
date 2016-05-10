@@ -1,0 +1,10 @@
+[ Tue May  3 21:52:19 2016 ]=>  امي تركي [94465349] added SuperGroup
+ 
+[ Tue May  3 21:52:48 2016 ]=>  امي تركي[94465349] set [206480902] as owner by username
+ 
+[ Tue May  3 21:57:45 2016 ]=>  امي تركي [94465349] set SuperGroup to: mute Gifs
+ 
+[ Tue May  3 21:57:53 2016 ]=>  امي تركي [94465349] locked link posting 
+ 
+[ Tue May  3 21:59:14 2016 ]=>  Ḿ͜ᵐẢ͜ᵐΉ͜ᵐḾ͜ᵐỔ͜  Ổ͜ᵐĐ 🎬 ₮Ｖ [206480902] set SuperGroup to: mute Audio
+ 

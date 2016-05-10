@@ -1,0 +1,6 @@
+[ Mon May  2 22:13:12 2016 ]=>  امي تركي [94465349] set SuperGroup to: mute Text
+ 
+[ Mon May  2 22:13:16 2016 ]=>  امي تركي [94465349] added SuperGroup
+ 
+[ Wed May  4 17:02:13 2016 ]=>  امي_تركي [94465349] deleted user user#id113098814
+ 

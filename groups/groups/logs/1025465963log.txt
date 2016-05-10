@@ -1,0 +1,44 @@
+[ Mon May  2 21:42:24 2016 ]=>  امي تركي [94465349] added SuperGroup
+ 
+[ Mon May  2 21:44:44 2016 ]=>  امي تركي [94465349] locked link posting 
+ 
+[ Mon May  2 21:44:49 2016 ]=>  امي تركي [94465349] locked spam 
+ 
+[ Mon May  2 21:44:53 2016 ]=>  امي تركي [94465349] set SuperGroup to: mute Gifs
+ 
+[ Mon May  2 21:45:03 2016 ]=>  امي تركي [94465349] locked sticker posting
+ 
+[ Mon May  2 21:45:07 2016 ]=>  امي تركي [94465349] locked flood 
+ 
+[ Mon May  2 21:46:05 2016 ]=>  امي تركي [94465349] deleted a message by reply
+ 
+[ Mon May  2 21:46:10 2016 ]=>  امي تركي [94465349] deleted a message by reply
+ 
+[ Mon May  2 21:46:14 2016 ]=>  امي تركي [94465349] deleted a message by reply
+ 
+[ Mon May  2 21:46:44 2016 ]=>  امي تركي [94465349] promoted mod: @@Zeezoo120[71632953] by reply
+ 
+[ Mon May  2 21:48:03 2016 ]=>  امي تركي [94465349] deleted a message by reply
+ 
+[ Mon May  2 21:48:07 2016 ]=>  امي تركي [94465349] deleted a message by reply
+ 
+[ Mon May  2 21:48:15 2016 ]=>  امي تركي [94465349] deleted a message by reply
+ 
+[ Mon May  2 21:48:21 2016 ]=>  امي تركي [94465349] deleted a message by reply
+ 
+[ Mon May  2 21:54:26 2016 ]=>  امي تركي [94465349] promoted @maareo
+ 
+[ Mon May  2 21:57:41 2016 ]=>  امي تركي [94465349] promoted @Mmmhm
+ 
+[ Mon May  2 22:00:14 2016 ]=>  امي تركي [94465349] set admin @Medoo1 [106833730]
+ 
+[ Mon May  2 22:00:39 2016 ]=>  امي تركي [94465349] promoted @Medoo1
+ 
+[ Mon May  2 22:00:59 2016 ]=>  امي تركي [94465349] set: [110623993] as owner by reply
+ 
+[ Mon May  2 22:05:14 2016 ]=>  امي تركي [94465349] promoted @lllZll
+ 
+[ Mon May  2 22:09:05 2016 ]=>  امي تركي [94465349] promoted mod: @(★🔪💀💀💀امـ௸ـْ✬﴿💀﴾عـ❦ـزرائـ௸ـيل.tt💀💀💀🔪★) [215252661] by reply
+ 
+[ Tue May  3 21:47:51 2016 ]=>  كہؤكہهہ||kôka @Koka_75 [181075437] kicked for #spam
+ 
